@@ -8,7 +8,7 @@ By curiosity, I build random things that catch my interest — from machine lear
 ## 🛠️ Tech I Work With
 - Golang
 - Docker & Kubernetes
-- VMware
+- Virtualization
 - Microservices Architecture
 - Cloud Infrastructure
 
